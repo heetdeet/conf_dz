@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<configuration>
+  <array>
+    <number hex="0x3E8">1000</number>
+    <number hex="0x03">3</number>
+    <string>192.168.1.1</string>
+    <array>
+      <number hex="0x01">1</number>
+      <number hex="0x02">2</number>
+      <number hex="0x03">3</number>
+    </array>
+  </array>
+  <string>строка как самостоятельный элемент</string>
+  <number hex="0xFF">255</number>
+</configuration>
